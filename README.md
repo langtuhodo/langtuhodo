@@ -9,21 +9,21 @@
 
 - 🌱 I’m currently learning **Frameworks, nodejs..**
 
-- 👯 I'm looking for collaborators on [Chiasefree.com](https://bit.ly/collaborators-for-me)
+- 👯 I'm looking for collaborators on [website design](thietkewebs.link)
 
-- 📝 I regularly write articles on [https://bit.ly/tips-wp-coputer](https://bit.ly/tips-wp-coputer)
+- 📝 I regularly write articles on [Weblogs.dev](https://weblogs.dev)
 
 - 💬 Ask me about **sociable, fun and like to make jokes**
 
-- 📫 How to reach me **admin@chiasefree.com**
+- 📫 How to reach me **admin@weblogs.dev**
 
 - ⚡ Fun fact **Likes blogging, sharing good tips, browsing the web but never learning the web**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/langtudaik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="langtudaik" height="30" width="40" /></a>
-<a href="https://twitter.com/chiasefree" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chiasefree" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/chiasefreechamcom/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/chiasefreechamcom/" height="30" width="40" /></a>
+<a href="https://x.com/binhnn0102" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Binh Nguyen" height="30" width="40" /></a>
+<a href="https://www.facebook.com/binhnn0102/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Binh Nguye" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
